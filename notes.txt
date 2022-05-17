@@ -1,0 +1,5 @@
+12nn
+
+1. Create a project (NodeJS) - ExpressJS / NestJS
+2. Create an endpoint that scrapes and returns a paginated list of popular website URLS on Webflow (https://webflow.com/websites/popular). The response should be a RESTful JSON response accessible via browser URL
+3. Include a README that includes step-by-step directions so we can run the repo locally. Make sure to include any necessary .env files or keys necessary
